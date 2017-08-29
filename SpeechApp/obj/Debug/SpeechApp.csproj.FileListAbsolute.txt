@@ -1,0 +1,134 @@
+E:\MVC project\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.config
+E:\MVC project\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe
+E:\MVC project\SpeechApp\SpeechApp\bin\Debug\SpeechApp.pdb
+E:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csprojResolveAssemblyReference.cache
+E:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Form1.resources
+E:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Properties.Resources.resources
+E:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.GenerateResource.Cache
+E:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.exe
+E:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.pdb
+E:\MVC project\SpeechApp\SpeechApp\obj\Debug\Interop.SpeechLib.dll
+E:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.ResolveComReference.cache
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.config
+F:\MVC project\SpeechApp\SpeechApp\obj\Debug\Interop.SpeechLib.dll
+F:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.ResolveComReference.cache
+F:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.exe
+F:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.pdb
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\SpeechApp.pdb
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.dll
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.dll
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.dll
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.dll
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.dll
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.xml
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.xml
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.xml
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.xml
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\MVC project\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.xml
+F:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csprojResolveAssemblyReference.cache
+F:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Form1.resources
+F:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Properties.Resources.resources
+F:\MVC project\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.GenerateResource.Cache
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.config
+G:\speech app\SpeechApp\SpeechApp\obj\Debug\Interop.SpeechLib.dll
+G:\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.ResolveComReference.cache
+G:\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.exe
+G:\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.pdb
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.pdb
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.dll
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.dll
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.dll
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.dll
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.dll
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.xml
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.xml
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.xml
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.xml
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.xml
+G:\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csprojResolveAssemblyReference.cache
+G:\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Form1.resources
+G:\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Properties.Resources.resources
+G:\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.GenerateResource.Cache
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.config
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\obj\Debug\Interop.SpeechLib.dll
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.ResolveComReference.cache
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.exe
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.pdb
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.pdb
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.dll
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.dll
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.dll
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.dll
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.xml
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.xml
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.xml
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.xml
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csprojResolveAssemblyReference.cache
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Form1.resources
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Properties.Resources.resources
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.GenerateResource.Cache
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.CodeAnalysisLog.xml
+C:\Users\faisal\Desktop\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.lastcodeanalysissucceeded
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.config
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\Interop.SpeechLib.dll
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.ResolveComReference.cache
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.exe
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.pdb
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.pdb
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.dll
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.dll
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.dll
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.dll
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.xml
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.xml
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.xml
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.xml
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Form1.resources
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Properties.Resources.resources
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.GenerateResource.Cache
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.CodeAnalysisLog.xml
+C:\Users\5000 Series\Desktop\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.lastcodeanalysissucceeded
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe.config
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\Interop.SpeechLib.dll
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.ResolveComReference.cache
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.exe
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.pdb
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\SpeechApp.pdb
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.dll
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.dll
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.dll
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.dll
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.dll
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Helpers.xml
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Mvc.xml
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.Razor.xml
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.xml
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\bin\Debug\System.Web.WebPages.Razor.xml
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Form1.resources
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.Properties.Resources.resources
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csproj.GenerateResource.Cache
+H:\New folder\thesis work\speech app\SpeechApp\SpeechApp\obj\Debug\SpeechApp.csprojResolveAssemblyReference.cache

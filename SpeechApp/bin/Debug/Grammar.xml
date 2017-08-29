@@ -1,0 +1,97 @@
+<grammar xmlns="http://www.w3.org/2001/06/grammar"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2001/06/grammar http://www.w3.org/TR/speech-grammar/grammar.xsd"
+  xml:lang="en-US" version="1.0" root="command1">
+
+  <rule id="command1" scope="public">
+    <one-of>
+	  <item>bidai</item>
+	  <item>notunline</item>
+	  <item>sesh</item>
+	  <item>dari</item>
+	  <item>coma</item>
+	  <item>bissoi</item>
+	  <item>prosno</item>
+	  <item>biroti</item>
+	  <item>shoreo</item>   
+	  <item>shariaa</item> 
+	  <item>akar</item> 
+	  <item>roshoi</item>
+ 	  <item>roshikar</item>  
+	  <item>dirgoi</item> 
+	  <item>dirgikar</item>  
+	  <item>roshou</item>
+      <item>roshuukar</item>  
+	  <item>dirgou</item>
+	  <item>dirguukar</item>
+      <item>eeh</item>
+	  <item>ekar</item>
+	  <item>oih</item>	
+	  <item>oikar</item>
+	  <item>own</item>
+	  <item>okar</item>
+						<item>ouu</item>	
+	  <item>ouukar</item>
+	  <item>rin</item>
+						<item>rikar</item>
+	  <item>Coh</item>  
+						<item>khoh</item>
+	  <item>gol</item>
+						<item>gawh</item>
+	  <item>umo</item>
+	  <item>cho</item>
+	  <item>chho</item> 
+	  <item>borgijaw</item>
+	  <item>jawh</item>
+	  <item>neo</item>
+	  <item>boroto</item>
+						<item>Toh</item>
+	  <item>doll</item>
+	  <item>dho</item>
+	  <item>moddenno</item> 
+	  <item>halkato</item> 
+						<item>halkattho</item> 
+	  <item>chikondo</item>
+	  <item>dhawl</item> 
+	  <item>dontono</item> 
+	  <item>pole</item>
+	  <item>fo</item>
+	  <item>bone</item>
+	  <item>bhone</item>
+	  <item>mo</item>
+	  <item>ontojo</item>
+	  <item>raw</item>
+	  <item>lawn</item>
+	  <item>matrahinsho</item>
+	  <item>talobbosho</item>
+	  <item>petkatasho</item>
+	  <item>dontosho</item>
+	  <item>ho</item>
+	  <item>doshunoro</item>
+	  <item>dhoshunoro</item>
+	  <item>ontostho</item>
+	  <item>khondoto</item>
+	  <item>oneshar</item>
+	  <item>bishorgo</item>
+	  <item>sondrobind</item>
+	  <item>Muchun</item>
+	  <item>jofola</item>
+	  <item>rofola</item>
+	  <item>hoshonto</item>
+	  
+	  </one-of>
+  </rule>
+<rule id="command2" scope="public">
+	<one-of>
+	<item>Gonit</item>
+	<item>notkhata</item>
+	<item>chobiakbo</item>
+	<item>netchalabo</item>
+	<item>ganshunbo</item>
+	<item>likhtechai</item>
+	<item>shobdokhujbo</item>
+	<item>shuvobiday</item>
+	</one-of>
+</rule>
+
+</grammar>

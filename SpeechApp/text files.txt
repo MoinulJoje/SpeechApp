@@ -1,0 +1,12 @@
+https://msdn.microsoft.com/en-us/library/hh378403.aspx#
+https://msdn.microsoft.com/en-us/library/hh362931.aspx
+https://research.googleblog.com/2016/02/text-to-speech-for-low-resource.html
+https://research.googleblog.com/2015/09/crowdsourcing-text-to-speech-voice-for.html
+https://research.googleblog.com/2015/12/text-to-speech-for-low-resource.html
+https://www.internationalphoneticassociation.org/content/ipa-chart
+http://rishida.net/scripts/bengali/
+https://msdn.microsoft.com/en-us/library/jj127645.aspx
+https://msdn.microsoft.com/en-us/library/hh378512(v=office.14).aspx
+https://msdn.microsoft.com/en-us/library/hh378451(v=office.14).aspx
+https://msdn.microsoft.com/en-us/library/hh378374(v=office.14).aspx
+https://en.wikipedia.org/wiki/Bengali_alphabet
